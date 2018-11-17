@@ -19,6 +19,6 @@ $respone = array(
                   "status"=>200,
                   "message"=>"Success",
                   "data"=> array($news,$news,$news,$news,$news)
-                )
+                );
 echo json_encode($respone);
 ?>
