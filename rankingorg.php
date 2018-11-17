@@ -16,7 +16,7 @@ $event = array("campaign_id"=>"1",
 $respone = array(
                   "status"=>200,
                   "message"=>"Success",
-                  "data"=> array($event ,$event ,$event  );
+                  "data"=> array($event ,$event ,$event  )
                 );
 echo json_encode($respone);
 
