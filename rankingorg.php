@@ -11,7 +11,7 @@ $event = array("campaign_id"=>"1",
                "startdate"=>"2018-11-1 00:00:00",
                "finishdate"=>"2018-11-30 23:59:59",
                "banner"=>"https://www.w3schools.com/html/img_chania.jpg",
-               "ranking"=>array($company ,$company ,$company ,$company )
+               "ranking"=>array($company ,$company ,$company ,$company ,$company )
               );
 $respone = array(
                   "status"=>200,
