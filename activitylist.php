@@ -1,4 +1,4 @@
-<?
+<?php
 $activity = array(
               "name"=>"activity1",
 );
