@@ -1,4 +1,5 @@
 <?php
+header('Content-Type: application/json');
 $news = array(    "news_id"=>"1",
                   "display_name"=>"Image Topic",
                   "Topic"=>"Promote / Event",
