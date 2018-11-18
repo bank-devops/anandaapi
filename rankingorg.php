@@ -1,4 +1,5 @@
 <?
+header('Content-Type: application/json');
 $company = array("company_id"=>"1",
                   "company_name"=>"company1",
                   "company_icon"=>"https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
