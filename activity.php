@@ -1,4 +1,5 @@
 <?php
+header('Content-Type: application/json');
 $activity = array("campaign_id"=>"1",
                   "display_name"=>"activity1",
                   "startdate"=>"2018-11-1 00:00:00",
