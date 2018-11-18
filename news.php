@@ -11,8 +11,8 @@ $news = array(    "news_id"=>"1",
                   "startdate"=>"2018-11-1 00:00:00",
                   "enddate"=>"2018-11-30 23:59:59",
                   "lat_long"=>"13.7203469,100.557814",
-                  "banner_full"=>"https://www.w3schools.com/html/img_chania.jpg",
-                  "banner_thumb"=>"https://www.w3schools.com/html/img_chania.jpg"
+                  "banner_full"=>"https://golangdevbank.herokuapp.com/banner-ananda.png",
+                  "banner_thumb"=>"https://golangdevbank.herokuapp.com/banner-ananda.png"
                  );
 
 $respone = array(
